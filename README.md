@@ -2,6 +2,10 @@
 
 ## Project_1  
  It includes the analysis on the ToothGrowth data in the R datasets package. 
+ 
+ ### Hypothesis Testing
+  H0 - There's no difference in average tooth growth of GPs who received supplements through OJ and VC. (mu_OJ - mu_VC = 0)  
+  H1 - There's some difference in average tooth growth of GPs who received supplements through OJ and VC. (mu_OJ - mu_VC =! 0)
 
 ## Project_2
 It incudes the dataset along the analysis on the finding any association between the amount of fish consumed and prostrate cancer. 
